@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__46-[IntroductionViewController requestPlateInfo]_block_invoke:IntroductionViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__48-[SolutionDetailViewController requestPlateInfo]_block_invoke:SolutionDetailViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ProjectViewController configView]:ProjectViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__31-[PPPViewController requestPPP]_block_invoke:PPPViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[FacilitiesViewController configTabView:]:FacilitiesViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__39-[ProjectViewController requestProject]_block_invoke:ProjectViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__46+[WLAFNetwork http:url:param:success:failure:]_block_invoke_3:WLAFNetwork.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PPPViewController tableView:numberOfRowsInSection:]:PPPViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SolutionDetailViewController tableView:cellForRowAtIndexPath:]:SolutionDetailViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__46+[WLAFNetwork http:url:param:success:failure:]_block_invoke_2.117:WLAFNetwork.m">
+      </ContextState>
+      <ContextState
+         contextName = "__36-[HomeViewController requestBarnner]_block_invoke:HomeViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PPPViewController tableView:cellForRowAtIndexPath:]:PPPViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PPPTableViewCell setSubModel:]:PPPTableViewCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PPPViewController fillData]:PPPViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__37-[SearchViewController requstSearch:]_block_invoke:SearchViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__51-[FacilityDetailSubViewController requestPlateInfo]_block_invoke:FacilityDetailSubViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[ScottPageView pageViewWithImageArr:andImageClickBlock:]:ScottPageView.m">
+      </ContextState>
+      <ContextState
+         contextName = "__47-[FacilitiesViewController requestFacilityList]_block_invoke:FacilitiesViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HomeViewController configPageView:]:HomeViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

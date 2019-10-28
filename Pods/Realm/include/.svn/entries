@@ -1,0 +1,714 @@
+10
+
+dir
+0
+http://wangli@172.16.70.254:22222/svn/02.Projects/Dev/2017/07.zoomlion/code/ios/trunk/%E4%B8%AD%E8%81%94Ebook/Zoomlion%202/Pods/Realm/include
+http://wangli@172.16.70.254:22222/svn/02.Projects
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8a76ee31-9ffc-f145-9bf4-3e6b0cacfc98
+
+RLMProperty_Private.h
+file
+
+
+
+add
+
+RLMArray.h
+file
+
+
+
+add
+
+RLMSyncPermission_Private.hpp
+file
+
+
+
+add
+
+RLMSyncSession.h
+file
+
+
+
+add
+
+RLMObjectSchema_Private.h
+file
+
+
+
+add
+
+RLMCollection_Private.h
+file
+
+
+
+add
+
+RLMMigration.h
+file
+
+
+
+add
+
+RLMSchema_Private.hpp
+file
+
+
+
+add
+
+RLMSyncCredentials.h
+file
+
+
+
+add
+
+RLMObservation.hpp
+file
+
+
+
+add
+
+RLMPredicateUtil.hpp
+file
+
+
+
+add
+
+RLMSyncConfiguration_Private.h
+file
+
+
+
+add
+
+RLMRealmConfiguration+Sync.h
+file
+
+
+
+add
+
+RLMObject_Private.hpp
+file
+
+
+
+add
+
+list.hpp
+file
+
+
+
+add
+
+RLMSchema.h
+file
+
+
+
+add
+
+RLMResults.h
+file
+
+
+
+add
+
+RLMAccessor.hpp
+file
+
+
+
+add
+
+RLMQueryUtil.hpp
+file
+
+
+
+add
+
+binding_context.hpp
+file
+
+
+
+add
+
+RLMSyncUtil_Private.hpp
+file
+
+
+
+add
+
+RLMObject.h
+file
+
+
+
+add
+
+object_store.hpp
+file
+
+
+
+add
+
+RLMSyncManager.h
+file
+
+
+
+add
+
+RLMSyncPermissionResults.h
+file
+
+
+
+add
+
+RLMRealm+Sync.h
+file
+
+
+
+add
+
+RLMArray_Private.h
+file
+
+
+
+add
+
+thread_safe_reference.hpp
+file
+
+
+
+add
+
+collection_notifications.hpp
+file
+
+
+
+add
+
+binding_callback_thread_observer.hpp
+file
+
+
+
+add
+
+RLMSyncUtil.h
+file
+
+
+
+add
+
+RLMSyncUser.h
+file
+
+
+
+add
+
+RLMJSONModels.h
+file
+
+
+
+add
+
+RLMThreadSafeReference_Private.hpp
+file
+
+
+
+add
+
+RLMObjectSchema_Private.hpp
+file
+
+
+
+add
+
+RLMRealmConfiguration_Private.hpp
+file
+
+
+
+add
+
+RLMObjectStore.h
+file
+
+
+
+add
+
+RLMMigration_Private.h
+file
+
+
+
+add
+
+Realm.h
+file
+
+
+
+add
+
+RLMCollection_Private.hpp
+file
+
+
+
+add
+
+RLMRealmConfiguration.h
+file
+
+
+
+add
+
+RLMRealm_Private.hpp
+file
+
+
+
+add
+
+RLMSchema_Private.h
+file
+
+
+
+add
+
+RLMResults_Private.h
+file
+
+
+
+add
+
+RLMPrefix.h
+file
+
+
+
+add
+
+RLMRealmUtil.hpp
+file
+
+
+
+add
+
+RLMRealm.h
+file
+
+
+
+add
+
+RLMObject_Private.h
+file
+
+
+
+add
+
+feature_checks.hpp
+file
+
+
+
+add
+
+RLMObjectBase.h
+file
+
+
+
+add
+
+RLMSyncManager_Private.h
+file
+
+
+
+add
+
+RLMAccessor.h
+file
+
+
+
+add
+
+RLMSyncUtil_Private.h
+file
+
+
+
+add
+
+execution_context_id.hpp
+file
+
+
+
+add
+
+shared_realm.hpp
+file
+
+
+
+add
+
+RLMConstants.h
+file
+
+
+
+add
+
+util
+dir
+
+
+
+add
+
+object_accessor.hpp
+file
+
+
+
+add
+
+RLMUtil.hpp
+file
+
+
+
+add
+
+RLMOptionalBase.h
+file
+
+
+
+add
+
+RLMClassInfo.hpp
+file
+
+
+
+add
+
+RLMRealmConfiguration_Private.h
+file
+
+
+
+add
+
+RLMSyncPermission.h
+file
+
+
+
+add
+
+results.hpp
+file
+
+
+
+add
+
+core
+dir
+
+
+
+add
+
+RLMAnalytics.hpp
+file
+
+
+
+add
+
+RLMRealm_Private.h
+file
+
+
+
+add
+
+RLMObjectBase_Private.h
+file
+
+
+
+add
+
+RLMResults_Private.hpp
+file
+
+
+
+add
+
+impl
+dir
+
+
+
+add
+
+RLMRealm_Dynamic.h
+file
+
+
+
+add
+
+RLMObjectBase_Dynamic.h
+file
+
+
+
+add
+
+RLMSyncUser_Private.hpp
+file
+
+
+
+add
+
+RLMListBase.h
+file
+
+
+
+add
+
+index_set.hpp
+file
+
+
+
+add
+
+RLMUpdateChecker.hpp
+file
+
+
+
+add
+
+object_schema.hpp
+file
+
+
+
+add
+
+RLMSyncSessionRefreshHandle.h
+file
+
+
+
+add
+
+sync
+dir
+
+
+
+add
+
+RLMProperty_Private.hpp
+file
+
+
+
+add
+
+RLMProperty.h
+file
+
+
+
+add
+
+RLMPlatform.h
+file
+
+
+
+add
+
+RLMThreadSafeReference.h
+file
+
+
+
+add
+
+schema.hpp
+file
+
+
+
+add
+
+RLMObjectSchema.h
+file
+
+
+
+add
+
+RLMNetworkClient.h
+file
+
+
+
+add
+
+RLMSwiftSupport.h
+file
+
+
+
+add
+
+object.hpp
+file
+
+
+
+add
+
+RLMCollection.h
+file
+
+
+
+add
+
+descriptor_ordering.hpp
+file
+
+
+
+add
+
+RLMSyncConfiguration_Private.hpp
+file
+
+
+
+add
+
+NSError+RLMSync.h
+file
+
+
+
+add
+
+RLMSyncConfiguration.h
+file
+
+
+
+add
+
+RLMArray_Private.hpp
+file
+
+
+
+add
+
+property.hpp
+file
+
+
+
+add
+
+RLMSyncSession_Private.hpp
+file
+
+
+
+add
+
+RLMSwiftBridgingHeader.h
+file
+
+
+
+add
+
+RLMSyncSessionRefreshHandle.hpp
+file
+
+
+
+add
+

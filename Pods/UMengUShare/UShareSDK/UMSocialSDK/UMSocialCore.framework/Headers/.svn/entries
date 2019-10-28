@@ -1,0 +1,119 @@
+10
+
+dir
+0
+http://wangli@172.16.70.254:22222/svn/02.Projects/Dev/2017/07.zoomlion/code/ios/trunk/%E4%B8%AD%E8%81%94Ebook/Zoomlion%202/Pods/UMengUShare/UShareSDK/UMSocialSDK/UMSocialCore.framework/Headers
+http://wangli@172.16.70.254:22222/svn/02.Projects
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8a76ee31-9ffc-f145-9bf4-3e6b0cacfc98
+
+UMSocialCoreImageUtils.h
+file
+
+
+
+add
+
+UMSocialHandler.h
+file
+
+
+
+add
+
+UMSocialResponse.h
+file
+
+
+
+add
+
+UMSocialPlatformProvider.h
+file
+
+
+
+add
+
+UMSocialGlobal.h
+file
+
+
+
+add
+
+UMSocialImageUtil.h
+file
+
+
+
+add
+
+UMSocialDataManager.h
+file
+
+
+
+add
+
+UMSocialWarterMarkConfig.h
+file
+
+
+
+add
+
+UMSociallogMacros.h
+file
+
+
+
+add
+
+UMSocialCore.h
+file
+
+
+
+add
+
+UMSocialManager.h
+file
+
+
+
+add
+
+UMSocialPlatformConfig.h
+file
+
+
+
+add
+
+UMSocialMessageObject.h
+file
+
+
+
+add
+

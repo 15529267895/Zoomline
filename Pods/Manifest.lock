@@ -1,0 +1,137 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - ASIHTTPRequest (1.8.2):
+    - ASIHTTPRequest/ASIWebPageRequest (= 1.8.2)
+    - ASIHTTPRequest/CloudFiles (= 1.8.2)
+    - ASIHTTPRequest/Core (= 1.8.2)
+    - ASIHTTPRequest/S3 (= 1.8.2)
+  - ASIHTTPRequest/ASIWebPageRequest (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/CloudFiles (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/Core (1.8.2):
+    - Reachability
+  - ASIHTTPRequest/S3 (1.8.2):
+    - ASIHTTPRequest/Core
+  - IQKeyboardManager (3.3.7)
+  - Masonry (1.0.2)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.15.1)
+  - NJKWebViewProgress (0.2.3):
+    - NJKWebViewProgress/Core (= 0.2.3)
+    - NJKWebViewProgress/ProgressView (= 0.2.3)
+  - NJKWebViewProgress/Core (0.2.3)
+  - NJKWebViewProgress/ProgressView (0.2.3)
+  - Reachability (3.2)
+  - ReactiveCocoa (2.1.8):
+    - ReactiveCocoa/Core (= 2.1.8)
+    - ReactiveCocoa/no-arc (= 2.1.8)
+  - ReactiveCocoa/Core (2.1.8):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.1.8)
+  - Reveal-iOS-SDK (1.6.2)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SVProgressHUD (2.2.2)
+  - TZImagePickerController (1.7.9)
+  - UMengUShare/Core (6.4.8):
+    - UMengUShare/Network
+  - UMengUShare/Network (6.4.8)
+  - UMengUShare/Social/AlipayShare (6.4.8):
+    - UMengUShare/Core
+  - UMengUShare/Social/Email (6.4.8):
+    - UMengUShare/Core
+  - UMengUShare/Social/QQ (6.4.8):
+    - UMengUShare/Core
+    - UMengUShare/Social/ReducedQQ
+  - UMengUShare/Social/ReducedQQ (6.4.8):
+    - UMengUShare/Core
+  - UMengUShare/Social/ReducedSina (6.4.8):
+    - UMengUShare/Core
+  - UMengUShare/Social/ReducedWeChat (6.4.8):
+    - UMengUShare/Core
+  - UMengUShare/Social/Sina (6.4.8):
+    - UMengUShare/Core
+    - UMengUShare/Social/ReducedSina
+  - UMengUShare/Social/WeChat (6.4.8):
+    - UMengUShare/Core
+    - UMengUShare/Social/ReducedWeChat
+  - UMengUShare/UI (6.4.8):
+    - UMengUShare/Core
+  - ZFDownload (1.0.2):
+    - ASIHTTPRequest
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - ASIHTTPRequest
+  - IQKeyboardManager (~> 3.3.7)
+  - Masonry
+  - MJExtension (~> 3.0.13)
+  - MJRefresh (~> 3.1.12)
+  - NJKWebViewProgress (~> 0.2.3)
+  - ReactiveCocoa (~> 2.1.8)
+  - Reveal-iOS-SDK
+  - SDWebImage (~> 3.8.2)
+  - SVProgressHUD
+  - TZImagePickerController (~> 1.7.1)
+  - UMengUShare/Social/AlipayShare
+  - UMengUShare/Social/Email
+  - UMengUShare/Social/QQ
+  - UMengUShare/Social/Sina
+  - UMengUShare/Social/WeChat
+  - UMengUShare/UI
+  - ZFDownload (~> 1.0.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - ASIHTTPRequest
+    - IQKeyboardManager
+    - Masonry
+    - MJExtension
+    - MJRefresh
+    - NJKWebViewProgress
+    - Reachability
+    - ReactiveCocoa
+    - Reveal-iOS-SDK
+    - SDWebImage
+    - SVProgressHUD
+    - TZImagePickerController
+    - UMengUShare
+    - ZFDownload
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  ASIHTTPRequest: ec013992946676b7978dcbde6396d57312d21db4
+  IQKeyboardManager: 249c3946acf61345c18b038eb50863fe2793e3a8
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: 5f8552bc25ca8751c010f621c1098dbdaacbccd6
+  NJKWebViewProgress: f481fd424cb5ecc27eacae11b5397db92fba9a4d
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  ReactiveCocoa: f89f2e009a87951b50321bf9feb958823fcc617e
+  Reveal-iOS-SDK: e2250b3c155bcfac53ae223ddc1f76d08f206c33
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+  TZImagePickerController: 0a8ff228d287ebdd7d485e8c42a2a932894f1fba
+  UMengUShare: 7a0ab762ccd445ccfcf11bde8e7f81b29b9f5e1c
+  ZFDownload: a52f94ebb080833b8a8ceb19a409f2941343fe7f
+
+PODFILE CHECKSUM: f573b6be98e99fef5ba67f2e3fca40fa3f65874c
+
+COCOAPODS: 1.5.3

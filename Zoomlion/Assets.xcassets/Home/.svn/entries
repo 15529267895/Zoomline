@@ -1,0 +1,84 @@
+10
+
+dir
+0
+http://wangli@172.16.70.254:22222/svn/02.Projects/Dev/2017/07.zoomlion/code/ios/trunk/%E4%B8%AD%E8%81%94Ebook/Zoomlion%202/Zoomlion/Assets.xcassets/Home
+http://wangli@172.16.70.254:22222/svn/02.Projects
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8a76ee31-9ffc-f145-9bf4-3e6b0cacfc98
+
+facility.imageset
+dir
+
+
+
+add
+
+company.imageset
+dir
+
+
+
+add
+
+project.imageset
+dir
+
+
+
+add
+
+equipment.imageset
+dir
+
+
+
+add
+
+hotnews.imageset
+dir
+
+
+
+add
+
+Contents.json
+file
+
+
+
+add
+
+solution.imageset
+dir
+
+
+
+add
+
+ppp.imageset
+dir
+
+
+
+add
+

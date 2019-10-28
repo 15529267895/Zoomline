@@ -1,0 +1,43 @@
+//
+//  PrefixHeader.pch
+//  Zoomlion
+//
+//  Created by 王li on 2017/11/12.
+//  Copyright © 2017年 wli. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Common.h"
+
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <MJExtension/MJExtension.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+
+#import "Masonry.h"
+#import "WLAFNetwork.h"
+#import "RequesURL.h"
+#import "UserModel.h"
+#import "UserCenterManager.h"
+#import "TTIFont.h"
+
+#import <SVProgressHUD/SVProgressHUD.h>
+
+//#define developAPi @"https://122.112.233.24:8443/zoomlion-web/api"
+//#define developHeadAPi @"https://122.112.233.24:8443"
+//#define developHttpHeadApi @"http://122.112.233.24:8080"
+
+#define developAPi @"https://zl.vriworks.cn/zoomlion-web/api"
+#define developHeadAPi @"http://zl.vriworks.cn"
+#define developWebApi @"http://zl.vriworks.cn/zoomlion-web/w/"
+
+//#define developWebApi @"http://www.iyuncimi.com:8080/zoomlion-web/w/"
+
+//#define developAPi @"https://172.16.30.33:8443/zoomlion-web/api"
+//#define developHeadAPi @"https://172.16.30.33:8443"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */

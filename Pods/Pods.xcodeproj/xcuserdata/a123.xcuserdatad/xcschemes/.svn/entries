@@ -1,0 +1,133 @@
+10
+
+dir
+0
+http://wangli@172.16.70.254:22222/svn/02.Projects/Dev/2017/07.zoomlion/code/ios/trunk/%E4%B8%AD%E8%81%94Ebook/Zoomlion%202/Pods/Pods.xcodeproj/xcuserdata/a123.xcuserdatad/xcschemes
+http://wangli@172.16.70.254:22222/svn/02.Projects
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8a76ee31-9ffc-f145-9bf4-3e6b0cacfc98
+
+MJRefresh.xcscheme
+file
+
+
+
+add
+
+IQKeyboardManager.xcscheme
+file
+
+
+
+add
+
+ASIHTTPRequest.xcscheme
+file
+
+
+
+add
+
+xcschememanagement.plist
+file
+
+
+
+add
+
+Masonry.xcscheme
+file
+
+
+
+add
+
+AFNetworking.xcscheme
+file
+
+
+
+add
+
+Reachability.xcscheme
+file
+
+
+
+add
+
+NJKWebViewProgress.xcscheme
+file
+
+
+
+add
+
+TZImagePickerController.xcscheme
+file
+
+
+
+add
+
+MJExtension.xcscheme
+file
+
+
+
+add
+
+ZFDownload.xcscheme
+file
+
+
+
+add
+
+SDWebImage.xcscheme
+file
+
+
+
+add
+
+ReactiveCocoa.xcscheme
+file
+
+
+
+add
+
+Pods-Zoomlion.xcscheme
+file
+
+
+
+add
+
+SVProgressHUD.xcscheme
+file
+
+
+
+add
+
