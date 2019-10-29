@@ -98,6 +98,7 @@
 		9DC48A5C1FD8DB91004DDD6D /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DC48A5B1FD8DB91004DDD6D /* CoreFoundation.framework */; };
 		9DC48A5E1FD8DB99004DDD6D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DC48A5D1FD8DB99004DDD6D /* UIKit.framework */; };
 		9DC48A601FD8DBA3004DDD6D /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DC48A5F1FD8DBA3004DDD6D /* libsqlite3.tbd */; };
+		9DE0358423683CEA00B2FC82 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9DE0358323683CEA00B2FC82 /* ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -283,6 +284,8 @@
 		9DC48A5D1FD8DB99004DDD6D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		9DC48A5F1FD8DBA3004DDD6D /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
 		9DC48A611FD8E738004DDD6D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		9DE0358223683CEA00B2FC82 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		9DE0358323683CEA00B2FC82 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -581,6 +584,8 @@
 				9D9BE6BA1FB7D96900223D50 /* Public */,
 				9D9BE6791FB7CE1600223D50 /* AppDelegate.h */,
 				9D9BE67A1FB7CE1600223D50 /* AppDelegate.m */,
+				9DE0358223683CEA00B2FC82 /* ViewController.h */,
+				9DE0358323683CEA00B2FC82 /* ViewController.m */,
 				9D9BE6821FB7CE1600223D50 /* Assets.xcassets */,
 				9D99CB01200A215900715119 /* LaunchScreen.storyboard */,
 				9D9BE6871FB7CE1600223D50 /* Info.plist */,
@@ -1149,6 +1154,7 @@
 				9DC48A561FD8DA91004DDD6D /* YYDiskCache.m in Sources */,
 				9D904267201ACBC8009974F9 /* TYCyclePagerTransformLayout.m in Sources */,
 				9D5E187C1FFDFCF1001878C4 /* UITabBarController+ZFPlayerRotation.m in Sources */,
+				9DE0358423683CEA00B2FC82 /* ViewController.m in Sources */,
 				9D7C62001FBBCC34003F8EB8 /* LoginViewController.m in Sources */,
 				9D7C62461FBDC827003F8EB8 /* ProjectModel.m in Sources */,
 				9D9BE6891FB7CE1600223D50 /* main.m in Sources */,
