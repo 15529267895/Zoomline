@@ -105,7 +105,6 @@
 
 #pragma mark - collectionView
 
-// 每个分区多少个item
 - (NSInteger )collectionView:(UICollectionView *)collectionView numberOfItemsInSection:(NSInteger)section
 {
     return self.dataArr.count;

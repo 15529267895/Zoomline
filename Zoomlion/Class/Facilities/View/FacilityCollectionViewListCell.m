@@ -64,16 +64,4 @@
     return _titleLab;
 }
 
-//- (UILabel *)subTitleLab
-//{
-//    if (!_subTitleLab)
-//    {
-//        _subTitleLab = [[UILabel alloc] initWithFrame:CGRectMake(10, CGRectGetMaxY(_titleLab.frame)-5, CGRectGetWidth(self.imageView.bounds) - 20, 20)];
-//        [self.subView addSubview:_subTitleLab];
-//        [self makeLabel:_subTitleLab textColor:colorTheme];
-//    }
-//    return _subTitleLab;
-//}
-
-
 @end
