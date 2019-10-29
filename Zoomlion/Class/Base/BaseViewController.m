@@ -233,9 +233,6 @@
 {
     [WLAFNetwork GET:urlBanner param:nil success:^(id responseObject)
      {
-//         [XHNetworkCache save_asyncJsonResponseToCacheFile:responseObject andURL:urlBanner params:nil completed:^(BOOL result) {
-//
-//         }];
          self.barArr = [NSMutableArray arrayWithCapacity:[responseObject[@"data"] count]];
          [self.barArr removeAllObjects];
 
@@ -588,11 +585,6 @@
 
 - (void)startRequstWeb
 {
-//    if (_updateArr.count != 0)    //此处有更新
-//    {
-//        [self dismissHud];
-//        return;
-//    }
     
     WWLog(@"self.webUrlArr = %@",self.webUrlArr);
    
