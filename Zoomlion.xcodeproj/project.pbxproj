@@ -1056,7 +1056,7 @@
 				TargetAttributes = {
 					9D9BE6751FB7CE1600223D50 = {
 						CreatedOnToolsVersion = 9.0;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -1354,10 +1354,10 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Infore Investment Holding Group Co., Ltd";
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = 29S4UY9J7H;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 75LQ93N4L8;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = /Users/li/Downloads/Zoomlion/Zoomlion/Other/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = "/Users/a123/Desktop/博兴相关项目(已上传)/中联/Zoomlion/Zoomlion/Zoomlion/Other/PrefixHeader.pch";
 				INFOPLIST_FILE = Zoomlion/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -1365,7 +1365,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.infore.zoomlion.ebook;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "Dis:com.infore.zoomlion.ebook";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -1378,10 +1378,10 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Infore Investment Holding Group Co., Ltd";
-				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = 29S4UY9J7H;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 75LQ93N4L8;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = /Users/li/Downloads/Zoomlion/Zoomlion/Other/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = "/Users/a123/Desktop/博兴相关项目(已上传)/中联/Zoomlion/Zoomlion/Zoomlion/Other/PrefixHeader.pch";
 				INFOPLIST_FILE = Zoomlion/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -1389,7 +1389,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.infore.zoomlion.ebook;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "Dis:com.infore.zoomlion.ebook";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
